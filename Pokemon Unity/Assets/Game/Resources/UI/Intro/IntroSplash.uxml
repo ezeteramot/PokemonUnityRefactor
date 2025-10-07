@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+  <ui:Style src="IntroSplash.uss" />
+  <ui:VisualElement name="intro-root" class="intro-root">
+    <ui:VisualElement name="intro-splash" class="intro-splash"/>
+    <ui:VisualElement name="intro-start-prompt" class="intro-start-prompt"/>
+  </ui:VisualElement>
+</ui:UXML>
